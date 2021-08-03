@@ -1,6 +1,7 @@
 <h1 align="center">
   ⚔ Kaggle 30 Days Challenge ⚔
 </h1>
+
 # [KAGGLE]
 
 |  #   | DAY |                            Source                            |      TAGS      |
